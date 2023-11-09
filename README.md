@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **100 days 100 projects**
 
-- 🌱 I’m currently learning **react js, unity game engine , csharp**
+- 🌱 I’m currently learning **react.js , c# , Nodejs**
 
 - 👯 I’m looking to collaborate on **in many big MNC's**
 
