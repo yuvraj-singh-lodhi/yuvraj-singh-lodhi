@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Streamlining processes with an automated solution tailored to predefined tasks in Sumati IO**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://yuvraj-singh-lodhi.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://yuvrajsinghlodh.vercel.app/)
 
 - 📫 How to reach me **yuvrajsinghlodhi30@gmail.com**
 
