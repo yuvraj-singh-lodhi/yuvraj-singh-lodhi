@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yuvrajsinghlodhi30@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1XHNx_saFmS6cvRCCx3nDWcO15d6A5Zfw/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/16ayFHg_hIxdrE3QcwItdLaX1oJn6fxZy/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
