@@ -26,7 +26,7 @@
 
 - 🌐 Check out my portfolio: [yuvrajsinghlodhi.vercel.app](https://yuvrajsinghlodhi.vercel.app)
 
-- 📄 View my resume: [Resume (Google Drive)](https://drive.google.com/file/d/16ayFHg_hIxdrE3QcwItdLaX1oJn6fxZy/view?usp=sharing)
+- 📄 View my resume: [Resume (Google Drive)](https://drive.google.com/file/d/1fHef1SiwD_otvc92uQvftpoUbptXv0tY/view?usp=sharing)
 
 ---
 
